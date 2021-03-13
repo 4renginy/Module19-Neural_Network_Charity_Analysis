@@ -61,7 +61,8 @@ Couple of tries I have done resulted with following figures.
 ![](https://github.com/4renginy/Module19-Neural_Network_Charity_Analysis/blob/main/pic3.JPG)
 ![](https://github.com/4renginy/Module19-Neural_Network_Charity_Analysis/blob/main/pic4.JPG)
 
-
+## Summary;
+With all the different variations I have tried I was not able to meet the requirment. We could have tried another model but this model would work well if there were couple of futures added to data frame. 
 
 
 
