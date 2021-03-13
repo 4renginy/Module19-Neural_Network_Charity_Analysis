@@ -56,6 +56,11 @@ To improve the model, I have dropped more columns that are not very usefull,adde
 
 ![](https://github.com/4renginy/Module19-Neural_Network_Charity_Analysis/blob/main/pic2.JPG)
 
+Couple of tries I have done resulted with following figures.
+
+![](https://github.com/4renginy/Module19-Neural_Network_Charity_Analysis/blob/main/pic3.JPG)
+![](https://github.com/4renginy/Module19-Neural_Network_Charity_Analysis/blob/main/pic4.JPG)
+
 
 
 
