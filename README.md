@@ -8,7 +8,7 @@ Our job is using the features in the provided dataset, creating a binary classif
 ## Process
 We have received a CSV containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. Within this dataset are a number of columns that capture metadata about each organization.  
 
-[Link to CSv file]
+
 
 We will preprocess the data for Neural Network Model, compile, train, evaluate the model and finally optimaze it. 
 
@@ -48,12 +48,13 @@ Neural Network Model..Tensorflow Keras
 
 We started with  2 layers and 100 nodes for neural network model. As activation function we used relu and sigmoid
 
-![picture]
+![](https://github.com/4renginy/Module19-Neural_Network_Charity_Analysis/blob/main/pic1.JPG)
 
 The accuracy for this run was 72%
 
 To improve the model, I have dropped more columns that are not very usefull,added ASK_AMT column to futures, played with node layers, activation functions and expoch numbers however I was not able to reach to 75% target.
 
+![](https://github.com/4renginy/Module19-Neural_Network_Charity_Analysis/blob/main/pic2.JPG)
 
 
 
