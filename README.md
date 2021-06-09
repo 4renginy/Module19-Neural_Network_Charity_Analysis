@@ -1,4 +1,4 @@
-# Module19-Neural_Network_Charity_Analysis
+# Alphabet Soup Charity Analysis with Neural Network
 
 ## Purpose;
 Alphabet Soup is a philantrhopic nonporfit foundation dedicated to helping organizations that portect the environment, people's well being and unify the world. ALphabet has raised and donated over 10 billion $ in the past. This money used for lifesaving technologies adn orginazed defrostaions groups around the world. 
