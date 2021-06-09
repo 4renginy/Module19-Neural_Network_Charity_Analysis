@@ -1,12 +1,12 @@
 # Module19-Neural_Network_Charity_Analysis
 
 ## Purpose;
-Alphabet Soup is a philantrhopic nonporfit foundation dedicated to heing organizations tha tportect the envornment, people's well being and unify the world. ALphabet has raised and donated over 10 billion $ in the past. This money used for lifesaving technologies adn orginazed defrostaions groups around the world. 
+Alphabet Soup is a philantrhopic nonporfit foundation dedicated to helping organizations that portect the environment, people's well being and unify the world. ALphabet has raised and donated over 10 billion $ in the past. This money used for lifesaving technologies adn orginazed defrostaions groups around the world. 
 
 Our job is using the features in the provided dataset, creating a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup.
 
 ## Process
-We have received a CSV containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. Within this dataset are a number of columns that capture metadata about each organization.  
+We have received a CSV containing more than 34,000 organizations that have received funding from Alphabet Soup over the years. Within this dataset there are a number of columns that capture metadata about each organization.  
 
 
 
